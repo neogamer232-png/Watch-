@@ -34,6 +34,10 @@ h1{
 }
 h1 strong{font-weight:500}
 
+.student{
+  font-size:18px;font-weight:500;letter-spacing:-.01em;
+  color:#1a1a1a;margin-bottom:.4rem;
+}
 .date-label{
   font-size:13px;color:#aaa;
   margin-bottom:3.5rem;
@@ -125,6 +129,7 @@ h1 strong{font-weight:500}
 <p class="eyebrow">National Eligibility cum Entrance Test</p>
 
 <h1>NEET <strong>2027</strong></h1>
+<p class="student">Nonu Kumar</p>
 <p class="date-label">May 2, 2027 &nbsp;·&nbsp; <span id="weeks">—</span> weeks to go</p>
 
 <div class="grid">
